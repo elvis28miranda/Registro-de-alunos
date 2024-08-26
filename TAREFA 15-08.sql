@@ -1,0 +1,1 @@
+SELECT * FROM tarefa2.materias;
